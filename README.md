@@ -1,4 +1,4 @@
-# Java_Concepts_Datastructures
+# Java Concepts: Datastructures
 Examples of some data structures in Java
 ## What
 The repo contains simple implementations of the following: 
